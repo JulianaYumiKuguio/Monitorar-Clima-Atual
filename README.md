@@ -1,4 +1,4 @@
-# Monitorar-Clima-Atual em Python Utilizando API 'https://openweathermap.org/'
+# Monitorar-Clima-Atual em Python consumindo API 'https://openweathermap.org/'
 
 
 
